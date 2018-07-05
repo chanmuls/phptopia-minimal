@@ -1,3 +1,9 @@
+// Variables to modify font folders
+$fa-font-path:        "../fonts/font-awesome";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "font-awesome";
+
 @import "fonts";
 @import "rouge-github";
 
